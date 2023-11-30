@@ -1,2 +1,2 @@
 # author_ber4
-stop finding more
+finding more for Taylor's law
