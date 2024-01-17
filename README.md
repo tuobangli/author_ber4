@@ -1,2 +1,1 @@
-Saipan Skyline Designers Hotel
-8
+5000
